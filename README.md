@@ -1,7 +1,7 @@
-#Receta de limonada
-Version de practica para aprender ramas en Git.
-porciones: 2 vasos
-aprende Franklin
 # Receta de limonada
-version de practica para aprender ramas de git
-porciones: 4 vasos
+Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
+## Que hay aqui
+- `receta.md`: ingredientes y pasos.
+- Ramas y merges de la sesion 3 (si las hizo).
+## Porciones
+4 vasos
